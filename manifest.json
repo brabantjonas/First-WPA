@@ -1,0 +1,20 @@
+{
+  "name": "Login",
+  "short_name": "Login",
+  "icons": [
+    {
+      "src": "images/icons/GIVT_logo_125x125.png",
+      "sizes": "125x125",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/GIVT_logo_250x250.png",
+      "sizes": "250x250",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#adadad",
+  "theme_color": "#41c98e"
+}
